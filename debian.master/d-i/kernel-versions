@@ -1,0 +1,19 @@
+# arch	version		flavour		installedname			suffix	bdep
+amd64	3.12.13-031213	generic		3.12.13-031213-generic		-	
+
+i386	3.12.13-031213	generic		3.12.13-031213-generic		-	
+
+armhf	3.12.13-031213	generic		3.12.13-031213-generic		-
+
+armhf	3.12.13-031213	generic-lpae		3.12.13-031213-generic-lpae		-
+
+arm64	3.12.13-031213	generic		3.12.13-031213-generic		-
+
+ppc64el	3.12.13-031213	generic		3.12.13-031213-generic		-
+
+# Ports
+# arch	version		flavour		installedname			suffix	bdep
+powerpc	3.12.13-031213	powerpc-smp	3.12.13-031213-powerpc-smp	-	
+powerpc	3.12.13-031213	powerpc64-smp	3.12.13-031213-powerpc64-smp	-	
+powerpc	3.12.13-031213	powerpc-e500	3.12.13-031213-powerpc-e500	-	
+powerpc 3.12.13-031213	powerpc-e500mc	3.12.13-031213-powerpc-e500mc	-	
